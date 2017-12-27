@@ -1,2 +1,2 @@
 # hello-world
-my first repositry to learn git
+my first repositry to learn github
